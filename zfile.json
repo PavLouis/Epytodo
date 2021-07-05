@@ -1,0 +1,21 @@
+{
+    "title" : "title" ,
+    "description" : "desc" ,
+    "due_time" : "2021-03-06 19:24:00" ,
+    "user_id" : "7" ,
+    "status" : "todo"
+}
+
+{
+    "email": " value " ,
+    "name": " value " ,
+    "firstname": " value " ,
+    "password": " value "
+}
+
+{
+    "email" : " updated_email@test . eu " ,
+    "password" : " updated_passord " ,
+    "firstname" : " updated_test " ,
+    "name" : " updated_test "
+}
